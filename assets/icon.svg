@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#140830"/>
+  <polygon points="64,10 74,40 106,40 81,58 91,88 64,70 37,88 47,58 22,40 54,40" fill="#c8a820" stroke="#f0d060" stroke-width="2"/>
+  <text x="64" y="118" font-family="serif" font-size="18" font-weight="bold" fill="#f0d060" text-anchor="middle">YORLORDS</text>
+</svg>

@@ -1,0 +1,16 @@
+# Godot 4 generated files
+.godot/
+
+# Export credentials (contains signing keys)
+export_credentials.cfg
+
+# Build output
+android/
+ios/
+builds/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.swp
+*~
